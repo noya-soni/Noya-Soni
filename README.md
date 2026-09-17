@@ -1,4 +1,4 @@
-````html
+
 <!-- ═══════════════════════ HEADER COVER BANNER (CLICKABLE) ═══════════════════════ -->
 <p align="center">
 <a href="https://github.com/noyasoni" target="_blank">
@@ -163,6 +163,3 @@ A result-oriented and passionate <b>Software Tester & QA Engineer</b> driven by 
 <p align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,65:0A2342,100:0D1117&height=100&section=footer" alt="Footer Wave" />
 </p>
-```
-
-**Bas isko apne `README.md` mein pura paste kar dena.** Upar cover mein **Noya Soni white + neeche extra gap + QA tagline** aa jayegi.
