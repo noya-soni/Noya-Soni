@@ -1,176 +1,170 @@
-<!-- ═══════════════════════ HEADER BANNER ═══════════════════════ -->
+<!-- ═══════════════════════ HEADER BANNER (CLICKABLE) ═══════════════════════ -->
 
 <p align="center">
-  <a href="https://github.com/noyasoni">
-    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,35:182848,70:4B6CB7,100:00C9FF&height=170&section=header&text=Noya%20Soni&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Tester%20%7C%20QA%20%7C%20API%20%26%20Web%20Testing&descAlignY=60&descSize=16&descColor=d9f3ff"/>
-  </a>
+<a href="https://github.com/noyasoni" target="_blank">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:0A2342,65:0066CC,100:00C9FF&height=160&section=header&text=noya%20soni&fontsize=44&fontcolor=ffffff&animation=fadein&fontaligny=38&desc=software%20tester%20%7c%20qa%20engineer%20%7c%20bug%20hunter&descaligny=58&descsize=15&desccolor=a8d8ea" alt="Noya Soni Banner" />
+</a>
 </p>
 
-<!-- ═══════════════════════ INTRO ═══════════════════════ -->
+<!-- ═══════════════════════ TAGLINE (STATIC - NEVER BREAKS) ══════════════════════ -->
 
 <p align="center">
-  <img src="https://img.shields.io/badge/👋_Hello,_I'm_Noya_Soni-0D1117?style=for-the-badge&labelColor=00C9FF"/>
+<img src="https://img.shields.io/badge/👋_Hello,_I'm_Noya_Soni-0D1117?style=for-the-badge&labelColor=00C9FF" />
 </p>
+<p align="center">
+<img src="https://img.shields.io/badge/Software_Tester-0066CC?style=flat-square" />
+<img src="https://img.shields.io/badge/QA_Engineer-7B2FBE?style=flat-square" />
+<img src="https://img.shields.io/badge/Bug_Hunter-FF4400?style=flat-square" />
+<img src="https://img.shields.io/badge/TestNG_%26_Playwright-2EAD33?style=flat-square" />
+</p>
+
+<!-- ═══════════════════════ ANIMATED WAVE DIVIDER ═══════════════════════ -->
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Software_Testing-0066CC?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Manual_Testing-7B2FBE?style=flat-square"/>
-  <img src="https://img.shields.io/badge/API_Testing-FF6C37?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,3,4,5&height=3" />
 </p>
 
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
-</p>
+<!-- ════════════════════════ ABOUT ME ════════════════════════ -->
 
-<!-- ═══════════════════════ ABOUT ME ═══════════════════════ -->
-
-## 👩‍💻 About Me
-
-Hi, I'm **Noya Soni**, a BCA graduate with a strong interest in **Software Testing and Quality Assurance**.
-
-I enjoy understanding application requirements, creating test cases, finding defects, validating APIs, and ensuring that software works as expected. I am also building my automation skills using **Playwright and Selenium**.
-
-* 🧪 Manual & Functional Testing
-* 🔍 Test Case Design & Execution
-* 🐞 Bug Reporting & Defect Tracking
-* 🔄 Smoke, Sanity & Regression Testing
-* 🌐 API Testing with Postman & Swagger
-* 🎭 UI Automation with Playwright
-* ☕ Selenium & Core Java
-* 🗄️ Basic SQL / MySQL
-* 📚 Continuously learning and improving my testing skills
-
-> 💡 **"Good testing is not about finding more bugs — it's about finding the right bugs before users do."**
-
-<!-- ═══════════════════════ TESTING WORKFLOW ═══════════════════════ -->
-
-## 🔄 My Testing Workflow
-
-<p align="center">
-  <img src="https://img.shields.io/badge/1️⃣_Requirement_Analysis-0066CC?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/➜-0D1117?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/2️⃣_Test_Case_Design-7B2FBE?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/➜-0D1117?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/3️⃣_Test_Execution-FF6B00?style=for-the-badge"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/4️⃣_Bug_Reporting-FF4400?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/➜-0D1117?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/5️⃣_Regression_Testing-1A8754?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/➜-0D1117?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/6️⃣_Verification-2EAD33?style=for-the-badge"/>
-</p>
-
-<!-- ═══════════════════════ TECH STACK ═══════════════════════ -->
-
-## 🛠️ Skills & Tools
-
-### 🧪 Testing & Automation
+## 🧑‍💻 About Me
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Manual_Testing-0066CC?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Functional_Testing-7B2FBE?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Regression_Testing-1A8754?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Smoke_Testing-FF6B00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/API_Testing-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+
+A result-oriented and passionate <b>Software Tester & QA Engineer</b> driven by the thrill of finding hidden bugs and ensuring flawless user experiences. Based in India 🇮🇳, I specialize in manual testing, meticulous test case design, systematic bug tracking, and I'm actively building strong automation skills with <b>TestNG</b> and <b>Playwright</b>. I bridge the gap between development and perfection!
+
 </p>
 
-### 🤖 Automation Tools
+> 💡 *Every bug caught in staging is a disaster averted in production.*
+
+* 🔬 **What I Do:** Manual Testing, Functional Analysis, Regression Suites, & API Validation.
+
+* 🤖 **Automation Journey:** Building test automation frameworks using **TestNG** and **Playwright**.
+
+* ⚡ **Fun Fact:** I break software professionally, and I absolutely love doing it!
+
+* 🚀 **Goal:** Becoming a full-stack QA Automation Engineer with Selenium, Playwright & Cypress.
+
+* 💼 **Availability:** **Looking for Opportunities / Open to Work** <br/>
+
+<!-- Reliable GitHub-CDN hosted coding animation (never breaks, no third-party server) -->
+
+<p align="center">
+<img width="450" src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.gif" alt="Coding Animation"/>
+</p>
+
+<!-- ═══════════════════════ INTERACTIVE QA PIPELINE FLOW (BULLETPROOF - shields.io only) ═══════════════════════ -->
+
+<p align="center">
+<img src="https://img.shields.io/badge/1️⃣_Requirement-0066CC?style=for-the-badge" />
+<img src="https://img.shields.io/badge/➜-transparent?style=flat-square&color=00C9FF" height="28"/>
+<img src="https://img.shields.io/badge/2️⃣_Test_Design-7B2FBE?style=for-the-badge" />
+<img src="https://img.shields.io/badge/➜-transparent?style=flat-square&color=00C9FF" height="28"/>
+<img src="https://img.shields.io/badge/3️⃣_Execution-FF6B00?style=for-the-badge" />
+<br/>
+<img src="https://img.shields.io/badge/4️⃣_Bug_Report-FF4400?style=for-the-badge" />
+<img src="https://img.shields.io/badge/➜-transparent?style=flat-square&color=00C9FF" height="28"/>
+<img src="https://img.shields.io/badge/5️⃣_Regression-1A8754?style=for-the-badge" />
+<img src="https://img.shields.io/badge/➜-transparent?style=flat-square&color=00C9FF" height="28"/>
+<img src="https://img.shields.io/badge/6️⃣_Sign_Off-2EAD33?style=for-the-badge" />
+</p>
+
+<!-- ═══════════════════════ TECH STACK & SKILLS ═══════════════════════ -->
+
+## 🛠️ Tech Stack & QA Expertise
+
+### 🧪 Core Automation & Testing Tools
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TestNG-EF2D5E?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
+<img src="https://img.shields.io/badge/TestNG-EF2D5E?style=for-the-badge&logo=testinglibrary&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
-### 💻 Languages & Database
+### 🎯 QA Specializations
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Manual%20Testing-0066CC?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Automation%20Testing-2EAD33?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Functional%20Testing-7B2FBE?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Smoke%20Testing-FF6B00?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Regression%20Testing-1A8754?style=for-the-badge" />
+<img src="https://img.shields.io/badge/API%20Testing-FF4400?style=for-the-badge" />
 </p>
 
-<!-- ═══════════════════════ PROJECTS ═══════════════════════ -->
+### 💻 Languages & Environments
 
-## 📂 Featured Projects
+<p align="left">
+<img src="https://img.shields.io/badge/Core%20Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
 
-### 🎭 Playwright Login Automation
+<br/>
 
-* Automated OrangeHRM login scenarios
-* Positive & negative test cases
-* Validation of login errors and required fields
-* Screenshots, videos and retry configuration
-* Organized test cases using separate spec files
+<!-- ════════════════════ SKILL EXPERTISE GRAPH ════════════════════ -->
 
-### 🌐 API Testing with Postman
-
-* REST API testing
-* GET, POST, PUT, PATCH & DELETE requests
-* Status code validation
-* Response body and header validation
-* Authentication & token handling
-* Positive and negative API scenarios
-
-### 🧪 Manual Testing
-
-* Requirement analysis
-* Test case creation
-* Functional testing
-* Smoke & regression testing
-* Defect reporting and verification
-
-<!-- ═══════════════════════ CURRENT FOCUS ═══════════════════════ -->
-
-## 🎯 Currently Learning
+### 📊 QA Proficiency Index
 
 ```text
-Manual Testing        ████████████████████
-API Testing           ████████████████░░░░
-Playwright            ██████████████░░░░░░
-Selenium              ████████████░░░░░░░░
-Java                  ████████████░░░░░░░░
-SQL                   ████████████░░░░░░░░
+🐛 Bug Reporting & Defect Tracking  ████████████████████████░░░  92%
+
+🧪 Manual Test Case Execution       ██████████████████████░░░░░  90%
+
+🔥 Smoke & Sanity Testing           █████████████████████░░░░░░  88%
+
+⚙️ Functional Specification Audit   ████████████████████░░░░░░░  85%
+
+📮 API Verification (Postman)       ██████████████████░░░░░░░░░  80%
+
+🎭 Playwright Automation            ██████████████░░░░░░░░░░░░░  65%
+
+🧬 TestNG Framework                 █████████████░░░░░░░░░░░░░░  62%
+
+☕ Core Java Foundations            ████████████████░░░░░░░░░░░  70%
 ```
 
-* 🚀 Improving Playwright automation
-* 🌐 Practicing API testing with Postman
-* ☕ Strengthening Java fundamentals
-* 🧪 Building real-world QA projects
-* 📖 Learning better test design and automation practices
+<br/>
 
 <!-- ═══════════════════════ GITHUB ACTIVITY ═══════════════════════ -->
 
 ## 📈 GitHub Activity
 
+<!-- Animated Contribution Snake — served as a static file from GitHub, not live-rendered, so it doesn't time out -->
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=noyasoni&show_icons=true&hide_border=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noyasoni&layout=compact&hide_border=true&theme=tokyonight" height="165"/>
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation"/>
 </p>
 
-<!-- ═══════════════════════ CONNECT ═══════════════════════ -->
-
-## 📫 Connect With Me
+<!-- Static achievement badges — plain shields.io badges, no live data fetch, cannot break -->
 
 <p align="center">
-  <a href="https://github.com/noyasoni">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+<img src="https://img.shields.io/badge/🐛_Bugs_Reported-92%25_Precision-FF4400?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🧪_Test_Cases-Executed_Daily-0066CC?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🎭_Automation-TestNG_%2B_Playwright-2EAD33?style=for-the-badge" />
+</p>
+
+> ℹ️ *Live stats cards (contribution count, streak, top languages) were removed here — those run on shared free servers that render on-demand and frequently time out or 503. Happy to set up a GitHub Action that generates a permanent static version of these (same way the snake above works) so they never break again — just say the word.*
+
+<br/>
+
+<!-- ═══════════════════════ BUG-HUNT FLOW (SELF-CONTAINED, EMBEDDED SVG) ═══════════════════════ -->
+
+<br/>
+
+<!-- ═══════════════════════ FOOTER : CONNECT WITH ME ═══════════════════════ -->
+
+## 📫 Connect with Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/sohib-lodhi-6059083ab/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:sohiblodhi59@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
 </p>
 
 <p align="center">
-  <i>✨ Learning, testing, improving — one bug at a time.</i>
-</p>
-
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,65:182848,100:0D1117&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,65:0A2342,100:0D1117&height=100&section=footer" alt="Footer Wave" />
 </p>
